@@ -17,18 +17,18 @@ This Github access App contains features as follow:
 
 ## Screenshots
 
-| Trending                                                 | Topic                                           | Search                                                   | UserProfile                                             |
-|----------------------------------------------------------|-------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------|
-| ![Trending](release/screenshots/github_trending.jpeg)    | ![Topic](release/screenshots/github_topic.jpeg) | ![Search](release/screenshots/github_search_repo.jpeg)   | ![Search](release/screenshots/github_user_profile.jpeg) |
-| ![Trending](release/screenshots/github_repo_detail.jpeg) |                                                 | ![Search](release/screenshots/github_search_result.jpeg) | ![Search](release/screenshots/github_profile_repo.jpeg) |
-|                                                          |                                                 |                                                          | ![Search](release/screenshots/github_submit_issue.jpeg) |
+| Trending                                                                                                        | Topic                                                                                                  | Search                                                                                                          | UserProfile                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| ![Trending](https://github.com/zhekaiye/GithubClientDemo/blob/main/release/screenshots/github_trending.jpeg)    | ![Topic](https://github.com/zhekaiye/GithubClientDemo/blob/main/release/screenshots/github_topic.jpeg) | ![Search](https://github.com/zhekaiye/GithubClientDemo/blob/main/release/screenshots/github_search_repo.jpeg)   | ![UserProfile](https://github.com/zhekaiye/GithubClientDemo/blob/main/release/screenshots/github_user_profile.jpeg) |
+| ![Trending](https://github.com/zhekaiye/GithubClientDemo/blob/main/release/screenshots/github_repo_detail.jpeg) |                                                                                                        | ![Search](https://github.com/zhekaiye/GithubClientDemo/blob/main/release/screenshots/github_search_result.jpeg) | ![UserProfile](https://github.com/zhekaiye/GithubClientDemo/blob/main/release/screenshots/github_profile_repo.jpeg) |
+|                                                                                                                 |                                                                                                        |                                                                                                                 | ![UserProfile](https://github.com/zhekaiye/GithubClientDemo/blob/main/release/screenshots/github_submit_issue.jpeg) |
 
 ## Design
 
 Based on MVVM arch pattern.
 
-![Architecture](release/design/arch_design_github_client.png)
+![Arch Design](https://github.com/zhekaiye/GithubClientDemo/blob/main/release/design/arch_design_github_client.png)
 
 ## Apk Download
 
-![release_apk](release/apk/app-release.apk)
+![Apk Download](https://github.com/zhekaiye/GithubClientDemo/blob/main/release/apk/app-release.apk)
