@@ -31,4 +31,4 @@ Based on MVVM arch pattern.
 
 ## Apk Download
 
-![Apk Download](https://github.com/zhekaiye/GithubClientDemo/blob/main/release/apk/app-release.apk)
+![Apk Download](https://github.com/zhekaiye/GithubClientDemo/blob/main/release/apk/app-release-signed.apk)
