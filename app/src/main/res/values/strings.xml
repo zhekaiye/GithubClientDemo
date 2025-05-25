@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GithubClientDemo</string>
+
+    <string name="action_back">Back</string>
+    <string name="repository_new_issue_button">Create New Issue</string>
+    <string name="error_repo_load_failed">Could not load repository information</string>
+    <string name="repo_item_stars_description">Stars</string>
+    <string name="repo_item_language_description">Language</string>
+    <string name="repository_show_readme">Show README</string>
+    <string name="repository_readme_not_found">README file not found</string>
+    <string name="error_unknown">Unknown Error</string>
+    <string name="error_load_failed">Load Error: %1$s</string>
+    <string name="error_prefix_detail">Error: %1$s</string>
+    <string name="button_retry">do retry</string>
+    <string name="error_search_failed">Search failed: %1$s</string>
+    <string name="login_button_text">click to login Github</string>
+    <string name="search_bar_placeholder">Search Repository</string>
+    <string name="profile_avatar_description">%1$s avatar</string>
+    <string name="profile_logout_button">Logout</string>
+    <string name="profile_repositories_title">Repositories</string>
+    <string name="profile_view_all_repos">All Repositories</string>
+    <string name="profile_followers_following">%1$d followers · %2$d following</string>
+    <string name="issue_create_title">Create New Issue</string>
+    <string name="issue_title_label">Issue Title</string>
+    <string name="issue_comment_optional_label">Issue Details</string>
+    <string name="action_submit_issue">Submit Issue</string>
+    <string name="login_logo_description">GitHub Logo</string>
+</resources>
